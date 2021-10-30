@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a 👨‍💻 programmer and DevOps and mainly I'm working with web technologies 🕸️
-I'm an enthusiast of DDD, Event Driven architecture and Event Storming.
-I'm a fan of 🐳 Docker contenerization, ☁️ cloud platforms and Kubernetes.
-I'm currently 🔭 working on application that implements DDD and Event Driven right way in Laravel framework https://github.com/mtk3d/karting
+I'm a 👨‍💻 programmer and DevOps and mainly I'm working with web technologies 🕸️  
+I'm an enthusiast of DDD, Event Driven architecture and Event Storming.  
+I'm a fan of 🐳 Docker contenerization, ☁️ cloud platforms and Kubernetes.  
+I'm currently 🔭 working on application that implements DDD and Event Driven right way in Laravel framework https://github.com/mtk3d/karting  
 
 <!--
 **mtk3d/mtk3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
